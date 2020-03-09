@@ -1,8 +1,6 @@
-## Cheng's GitHub Pages
+## Cheng's Bio
 
-You can use the [editor on GitHub](https://github.com/ChengC2019/Webpage/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Cheng Chen is a first-year Ph.D. student at the University of Georgia supervised by Dr. Morkos. Cheng received his bachelor from Central College of BUPT in Beijing and a master's degree from Florida Institute of Technology. His doctoral research interest is in using heuristic methods to study and understand the evolution of requirement networks in industrial system design. He also studies the impact of AI on engineering design education.  
 
 ### Markdown
 
