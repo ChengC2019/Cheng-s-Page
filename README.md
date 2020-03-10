@@ -13,7 +13,7 @@ Cheng Chen is a first-year Ph.D. student at the University of Georgia supervised
   <dd>Ph.D. in Mechanical Engineering, (in progress)</dd>
 </dl>
 
-### Research Areas
+### Research Interests
 <ul>
   <li>Design Automation</li>
   <li>Requirement Management</li>
