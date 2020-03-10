@@ -10,7 +10,8 @@ Cheng Chen is a first-year Ph.D. student at the University of Georgia supervised
 </ul> 
 
 ### Publications
-**Chen, C.**, 2016. A Maximum Entropy Approach to Identifying Important Statistical Moments to Best-Represent Spray Distribution Data.
+Chen, C., 2016. A Maximum Entropy Approach to Identifying Important Statistical Moments to Best-Represent Spray Distribution Data.
+
 
 <!--
 ```markdown
@@ -27,7 +28,7 @@ Syntax highlighted code block
 2. List
  
 **Bold** and _Italic_ and `Code` text
-
+-->
 [Link](url) and ![Image](src)
 ```
 
@@ -40,4 +41,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
--->
+
