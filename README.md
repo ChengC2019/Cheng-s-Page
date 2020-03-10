@@ -1,3 +1,4 @@
+<!--
 <header class="ugaheader ugaheader--black ugaheader--border ugaheader--border-red">
 			<div class="ugaheader__container">
 				<div class="ugaheader__row">
@@ -67,7 +68,7 @@
 		<script defer src="https://use.fontawesome.com/releases/v5.7.0/js/fontawesome.js" crossorigin="anonymous"></script>
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 		<script src="/_assets/js/uga-header.js"></script>
-
+-->
 <img src= "favicon.png" width="100">
 
 ## Cheng's Bio
