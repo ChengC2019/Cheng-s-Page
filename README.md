@@ -3,12 +3,14 @@
 Cheng Chen is a first-year Ph.D. student at the University of Georgia supervised by Dr. Morkos. Cheng received his bachelor from Central College of BUPT in Beijing and a master's degree from Florida Institute of Technology. His doctoral research interest is in using heuristic methods to study and understand the evolution of requirement networks in industrial system design. He also studies the impact of AI on engineering design education.  
 
 ### Research Areas
-
 <ul>
   <li>Design Automation</li>
   <li>Requirement Management</li>
   <li>Engineering Education</li>
 </ul> 
+
+### Publications
+Chen, Cheng. A Maximum Entropy Approach to Identifying Important Statistical Moments to Best-Represent Spray Distribution Data. Diss. 2016.
 
 <!--
 ```markdown
@@ -28,7 +30,6 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
--->
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
@@ -39,3 +40,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+-->
