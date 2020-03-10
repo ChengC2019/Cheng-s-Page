@@ -1,5 +1,6 @@
-<img src= "favicon.png" width="100">
+<script defer src="https://use.fontawesome.com/releases/v5.7.1/js/solid.js" integrity="sha384-6FXzJ8R8IC4v/SKPI8oOcRrUkJU8uvFK6YJ4eDY11bJQz4lRw5/wGthflEOX8hjL" crossorigin="anonymous"></script>
 
+<img src= "favicon.png" width="100">
 
 ## Cheng's Bio
 
