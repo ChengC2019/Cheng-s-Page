@@ -2,9 +2,13 @@
 
 Cheng Chen is a first-year Ph.D. student at the University of Georgia supervised by Dr. Morkos. Cheng received his bachelor from Central College of BUPT in Beijing and a master's degree from Florida Institute of Technology. His doctoral research interest is in using heuristic methods to study and understand the evolution of requirement networks in industrial system design. He also studies the impact of AI on engineering design education.  
 
-### Markdown
+### Research Areas
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<ul>
+  <li>Design Automation</li>
+  <li>Requirement Management</li>
+  <li>Engineering Education</li>
+</ul> 
 
 ```markdown
 Syntax highlighted code block
