@@ -4,9 +4,11 @@ Cheng Chen is a first-year Ph.D. student at the University of Georgia supervised
 
 
 ### Academic Background
-B.S. in Mechanical Engineering, Century College of BUPT, 2012
-M.Sc. in Aerospace Engineering, Florida Institute of Technology, 2016
-Ph.D. in Mechanical Engineering, (in progress)
+<dl>
+  <dt>B.S. in Mechanical Engineering, Century College of BUPT, 2012</dt>
+  <dt>M.Sc. in Aerospace Engineering, Florida Institute of Technology, 2016</dt>
+  <dt>Ph.D. in Mechanical Engineering, (in progress)</dt>
+</dl>
 
 ### Research Areas
 <ul>
