@@ -1,4 +1,87 @@
-<script defer src="https://use.fontawesome.com/releases/v5.7.1/js/solid.js" integrity="sha384-6FXzJ8R8IC4v/SKPI8oOcRrUkJU8uvFK6YJ4eDY11bJQz4lRw5/wGthflEOX8hjL" crossorigin="anonymous"></script>
+<!doctype html>
+<html lang="en-us">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="x-ua-compatible" content="ie=edge">
+		<title>UGA Global Header</title>
+		<meta name="description" content="">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="robots" contet="noindex, nofollow">
+
+		<link rel="stylesheet" href="./_assets/css/uga-header.css">
+	</head>
+	<body>
+		<header class="ugaheader ugaheader--black ugaheader--border ugaheader--border-red">
+			<div class="ugaheader__container">
+				<div class="ugaheader__row">
+					<div class="ugaheader__wordmark">
+						<a class="ugaheader__wordmark-link" href="https://www.uga.edu/">
+							University of Georgia
+						</a>
+					</div>
+					<div class="ugaheader__nav-container">
+						<!-- Menu toggle button displays on smaller screen sizes -->
+						<button id="ugaheader__nav-menu-toggle" class="ugaheader__nav-menu-toggle" aria-expanded="false" aria-label="Toggle Menu">
+							<i class="fas fa-fw fa-caret-down" title="Toggle Menu" aria-hidden="true"></i>
+						</button>
+						
+						<nav class="ugaheader__nav">
+							<!-- Standard Links -->
+							<ul class="ugaheader__nav-list ugaheader__nav-links">
+								<li class="ugaheader__nav-list-element">
+									<a class="ugaheader__nav-list-link" href="">Calendar</a>
+								</li>
+								<li class="ugaheader__nav-list-element">
+									<a class="ugaheader__nav-list-link" href="">News</a>
+								</li>
+							</ul>
+							<!-- Button Links -->
+							<ul class="ugaheader__nav-list ugaheader__nav-buttons">
+								<li class="ugaheader__nav-list-element">
+									<a class="ugaheader__nav-list-link" href="">Donate Now</a>
+								</li>
+								<li class="ugaheader__nav-list-element">
+									<a class="ugaheader__nav-list-link" href="">Apply</a>
+								</li>
+							</ul>
+							<!-- Social Media Icons (FontAwesome 5) -->
+							<ul class="ugaheader__nav-list ugaheader__nav-icons">
+								<li class="ugaheader__nav-list-element">
+									<a class="ugaheader__nav-list-link" href=""><i class="fab fa-fw fa-facebook-square" title="Facebook" aria-hidden="true"></i></a>
+								</li>
+								<li class="ugaheader__nav-list-element">
+									<a class="ugaheader__nav-list-link" href=""><i class="fab fa-fw fa-twitter-square" title="Twitter" aria-hidden="true"></i></a>
+								</li>
+								<li class="ugaheader__nav-list-element">
+									<a class="ugaheader__nav-list-link" href=""><i class="fab fa-fw fa-linkedin" title="LinkedIn" aria-hidden="true"></i></a>
+								</li>
+							</ul>
+							<!-- Search Element -->
+							<form action="https://www.uga.edu/search.php" class="ugaheader__search">
+								<button type="button" id="ugaheader__search-toggle" class="ugaheader__search-toggle" aria-expanded="false" aria-label="Toggle Search">
+									<i class="fas fa-fw fa-search" title="Toggle Search" aria-hidden="true"></i>
+								</button>
+								<div id="ugaheader__search-field" class="ugaheader__search-field">
+									<label id="ugaheader__search-label" class="ugaheader__form-label" for="ugaheader__search-input">Search</label>
+									<input id="ugaheader__search-input" class="ugaheader__search-input" type="search" name="q" placeholder="Search" aria-labelledby="ugaheader__search-label" autocomplete="off">
+								</div>
+								<button type="submit" class="ugaheader__search-submit">Submit</button>
+							</form>
+						</nav>
+					</div>
+				</div>
+			</div>
+		</header>
+		
+		<!-- Your site code here -->
+
+		<script defer src="https://use.fontawesome.com/releases/v5.7.0/js/solid.js" crossorigin="anonymous"></script>
+		<script defer src="https://use.fontawesome.com/releases/v5.7.0/js/brands.js" crossorigin="anonymous"></script>
+		<script defer src="https://use.fontawesome.com/releases/v5.7.0/js/fontawesome.js" crossorigin="anonymous"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+		<script src="/_assets/js/uga-header.js"></script>
+	</body>
+</html>
 
 <img src= "favicon.png" width="100">
 
