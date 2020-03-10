@@ -1,4 +1,5 @@
-![](favicon.png)
+<img src= "favicon.png" width="100">
+
 
 ## Cheng's Bio
 
