@@ -11,6 +11,25 @@ Cheng Chen is a first-year Ph.D. student at the University of Georgia supervised
 
 ### Publications
 Chen, Cheng. A Maximum Entropy Approach to Identifying Important Statistical Moments to Best-Represent Spray Distribution Data. Diss. 2016.
+{
+    …
+    "resources" : [
+        "datatypes.svg",
+        {
+            "type"            : "LinkedResource",
+            "url"             : "test-utf8.csv",
+            "encodingFormat"  : "text/csv",
+            "name"            : "Test Results",
+            "description"     : "CSV file containing the full data set used."
+        },
+        {
+            "type"            : "LinkedResource",
+            "url"             : "terminology.html",
+            "encodingFormat"  : "text/html",
+            "rel"             : "glossary"
+        }
+    ]
+}
 
 <!--
 ```markdown
