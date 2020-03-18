@@ -17,6 +17,7 @@ Cheng Chen is a first-year Ph.D. student at the University of Georgia supervised
 <ul>
   <li>Design Automation</li>
   <li>Requirement Management</li>
+  <li>Spray Optimization</li>
   <li>Engineering Education</li>
 </ul> 
 
