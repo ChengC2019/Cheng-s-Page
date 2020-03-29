@@ -7,7 +7,7 @@
 
 <ul class="icons">
   <li><a href ="#" class="icon fa-github"><span class="label">GitHub</span></a></li>
-  <li><a href ="#" class="icon fa-linkedin"><span class="label">Instagram</span></a></li>
+  <li><a href ="#" class="icon fa-linkedin"><span class="label">LinkeDin</span></a></li>
 </ul>
 
 ## Cheng's Bio
