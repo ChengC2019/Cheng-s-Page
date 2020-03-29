@@ -1,6 +1,10 @@
 
 <img src= "favicon.png" width="100">
 
+<ul class="links">
+  <li><a href ="generic.html">Generic Page</a></li>
+</ul>
+
 ## Cheng's Bio
 
 Cheng Chen is a first-year Ph.D. student at the University of Georgia supervised by Dr. Morkos. Cheng received his bachelor from CCBUPT in Beijing and a master's degree from Florida Institute of Technology. His doctoral research interest is in using heuristic methods to study and understand the evolution of requirement networks in industrial system design. He also studies the impact of machine learning on engineering design education.  
