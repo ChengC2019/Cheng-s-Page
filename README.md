@@ -1,7 +1,6 @@
 
 <img src= "favicon.png" width="100">
 
-
 ## Cheng's Bio
 
 Cheng Chen is a second-year Ph.D. student at the University of Georgia. He received his bachelor’s at Central College of BUPT in Beijing and a master’s degree at Florida Institute of Technology. His doctoral research interest is in using heuristic methods to study and understand the evolution of requirement networks in industrial system design. He also studies the impact of AI on engineering design education.
