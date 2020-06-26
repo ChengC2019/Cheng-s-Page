@@ -1,14 +1,6 @@
 
 <img src= "favicon.png" width="100">
 
-<ul class="links">
-  <li><a href ="generic.html">Generic Page</a></li>
-</ul>
-
-<ul class="icons">
-  <li><a href ="#" class="icon fa-github"><span class="label">GitHub</span></a></li>
-  <li><a href ="#" class="icon fa-linkedin"><span class="label">LinkeDin</span></a></li>
-</ul>
 
 ## Cheng's Bio
 
