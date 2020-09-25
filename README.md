@@ -1,6 +1,6 @@
 
 <img src= "favicon.png" width="100">
-<img src= "model.png" width = "100",style="float:right">
+<img src= "model.png" width = "100",style="float: right">
 
 ## Cheng's Bio
 
