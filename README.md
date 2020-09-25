@@ -5,7 +5,7 @@
   Page <span class="page">1</span> of <span class="topage">1</span>
   <div style="float: right">
     <a href="https://www.facebook.com/currentrms" target="_blank">
-      <img src="https://raw.githubusercontent.com/rohitink/sociocons/master/Sociocons/facebook-sociocon.png" style="max-height: 32px;" alt="Facebook">
+      <img src="https://raw.githubusercontent.com/rohitink/sociocons/master/Sociocons/facebook-sociocon.png" style="max-height: 10px;" alt="Facebook">
     </a>
     <a href="https://twitter.com/currentrms" target="_blank">
       <img src="https://raw.githubusercontent.com/rohitink/sociocons/master/Sociocons/twitter-sociocon.png" style="max-height: 32px;" alt="Twitter">
