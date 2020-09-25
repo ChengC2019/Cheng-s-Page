@@ -5,13 +5,7 @@
   Page <span class="page">1</span> of <span class="topage">1</span>
   <div style="float: right">
     <a href="https://www.linkedin.com/in/cheng-chen-1223b583" target="_blank">
-      <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQGyOWvr4W0Pow/company-logo_200_200/0?e=2159024400&v=beta&t=itrwplyUUwPAVxqxN8THySQds9p401UaOtZIurSBVnA" style="max-height: 32px;" alt="Linkedin">
-    </a>
-    <a href="https://twitter.com/currentrms" target="_blank">
-      <img src="https://raw.githubusercontent.com/rohitink/sociocons/master/Sociocons/twitter-sociocon.png" style="max-height: 32px;" alt="Twitter">
-    </a>
-    <a href="https://www.youtube.com/channel/UCtr9hX3v4gp_rZ7RonxG7hA" target="_blank">
-      <img src="https://raw.githubusercontent.com/rohitink/sociocons/master/Sociocons/youtube-sociocon.png" style="max-height: 32px;" alt="YouTube">
+      <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQGyOWvr4W0Pow/company-logo_200_200/0?e=2159024400&v=beta&t=itrwplyUUwPAVxqxN8THySQds9p401UaOtZIurSBVnA" style="max-height: 3px;" alt="Linkedin">
     </a>
   </div>
 </div>
