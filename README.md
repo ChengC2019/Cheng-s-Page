@@ -22,9 +22,9 @@ Cheng Chen is a second-year Ph.D. student at the University of Georgia. He recei
 </ul> 
 
 ### Publications
-Chen, C., 2016. A Maximum Entropy Approach to Identifying Important Statistical Moments to Best-Represent Spray Distribution Data.(PDF)
+Chen, C., 2016. A Maximum Entropy Approach to Identifying Important Statistical Moments to Best-Represent Spray Distribution Data.<a href="url">PDF</a>
 
-Chen, C., & Olajoyegbe, T. O., & Morkos, B. (2020, June), The Imminent Educational Paradigm Shift: How Artificial Intelligence will Reframe how we Educate the Next Generation of Engineering Designers  Paper presented at 2020 ASEE Virtual Annual Conference Content Access, Virtual On line . 10.18260/1-2--35326 (PDF)
+Chen, C., & Olajoyegbe, T. O., & Morkos, B. (2020, June), The Imminent Educational Paradigm Shift: How Artificial Intelligence will Reframe how we Educate the Next Generation of Engineering Designers  Paper presented at 2020 ASEE Virtual Annual Conference Content Access, Virtual On line . 10.18260/1-2--35326 <a href="url">PDF</a>
 
 <!--
 ```markdown
