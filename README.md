@@ -3,13 +3,12 @@
 
 <div class="social-icons section">
   Page <span class="page">1</span> of <span class="topage">1</span>
-  <div style="float: right">
+  <div style="float: right" width = "10">
     <a href="https://www.linkedin.com/in/cheng-chen-1223b583" target="_blank">
       <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQGyOWvr4W0Pow/company-logo_200_200/0?e=2159024400&v=beta&t=itrwplyUUwPAVxqxN8THySQds9p401UaOtZIurSBVnA" style="max-height: 3px;" alt="Linkedin">
     </a>
   </div>
 </div>
-
 
 ## Cheng's Bio
 <img src= "Cheng.jpg" width = "100"  align="left">
