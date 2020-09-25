@@ -6,6 +6,9 @@
     <a href="https://www.linkedin.com/in/cheng-chen-1223b583" target="_blank">
       <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQGyOWvr4W0Pow/company-logo_200_200/0?e=2159024400&v=beta&t=itrwplyUUwPAVxqxN8THySQds9p401UaOtZIurSBVnA" style="max-height: 3px;" alt="Linkedin"  width = "35">
     </a>
+    <a href="https://zoom.us/j/4307564577?pwd=WjJrR05obklIdmsxdEQrZXZ6U2JVdz09" target="_blank">
+      <img src="https://images-na.ssl-images-amazon.com/images/I/61DZY6oW0PL._AC_UL600_SR600,600_.png" style="max-height: 3px;" alt="Zoom"  width = "35">
+    </a>
   </div>
 </div>
 
