@@ -1,6 +1,5 @@
 
-<img src= "favicon.png" width="100" align="right">
-
+<img src= "favicon.png" width="100" align="float: right">
 <img src= "model.png" width = "100" style="float: left">
 
 ## Cheng's Bio
