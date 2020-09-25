@@ -1,5 +1,5 @@
 <img src= "favicon.png" width="100" align="right">
-<img src= "model.png" width = "100" style="left">
+<img src= "model.png" width = "100" style="right">
 
 <div class="social-icons section">
   <div style="float: right">
