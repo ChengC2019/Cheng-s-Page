@@ -9,6 +9,9 @@
     <a href="https://zoom.us/j/4307564577?pwd=WjJrR05obklIdmsxdEQrZXZ6U2JVdz09" target="_blank">
       <img src="https://images-na.ssl-images-amazon.com/images/I/61DZY6oW0PL._AC_UL600_SR600,600_.png" style="max-height: 3px;" alt="Zoom"  width = "35">
     </a>
+    <a href="https://www.researchgate.net/profile/Cheng_Chen186" target="_blank">
+      <img src="https://www.genengnews.com/wp-content/uploads/2019/03/BestApps_ResearchGate.jpg" style="max-height: 3px;" alt="ResearchGate"  width = "35">
+    </a>
   </div>
 </div>
 
