@@ -10,7 +10,7 @@
       <img src="https://images-na.ssl-images-amazon.com/images/I/61DZY6oW0PL._AC_UL600_SR600,600_.png" align="left" style="max-height: 132px;" alt="Zoom"  width = "15">
     </a>
     <a href="https://www.researchgate.net/profile/Cheng_Chen186" target="_blank">
-      <img src="https://www.genengnews.com/wp-content/uploads/2019/03/BestApps_ResearchGate.jpg" align="left" style="max-height: 132px;" alt="ResearchGate"  width = "15">
+      <img src="https://www.genengnews.com/wp-content/uploads/2019/03/BestApps_ResearchGate.jpg"  style="max-height: 132px;" alt="ResearchGate"  width = "15">
     </a>
   </div>
 </div>
