@@ -1,4 +1,4 @@
-# Jalpc. [![Analytics](https://ga-beacon.appspot.com/UA-73784599-1/welcome-page)](https://github.com/jarrekk/Jalpc)
+[![Analytics](https://ga-beacon.appspot.com/UA-73784599-1/welcome-page)]
 <div align="right">
   <img alt="Logo" src="model.png" width="100" />
   <img alt="Logo" src="favicon.png" width="100" />
