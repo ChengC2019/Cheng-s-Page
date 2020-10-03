@@ -1,4 +1,4 @@
-```
+<!--
 <img src= "favicon.png" width="100" align="right">
 <img src= "model.png" width = "100" align="right">
 -->
