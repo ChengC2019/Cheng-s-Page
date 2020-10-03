@@ -1,9 +1,4 @@
 # Welcome to Cheng's home page! ![Analytics](https://ga-beacon.appspot.com/UA-73784599-1/welcome-page)
-<div align="right">
-  <img alt="Logo" src="model.png" width="100" />
-  <img alt="Logo" src="favicon.png" width="100" />
-</div>
-
 <div class="social-icons section">
   <div style="float: left">
     <a href="https://www.linkedin.com/in/cheng-chen-1223b583" target="_blank">
@@ -16,6 +11,11 @@
       <img src="https://www.genengnews.com/wp-content/uploads/2019/03/BestApps_ResearchGate.jpg"  style="max-height: 100px;" alt="ResearchGate"  width = "25">
     </a>
   </div>
+</div>
+
+<div align="right">
+  <img alt="Logo" src="model.png" width="100" />
+  <img alt="Logo" src="favicon.png" width="100" />
 </div>
 
 ## Cheng's Bio
