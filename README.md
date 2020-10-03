@@ -1,5 +1,4 @@
-# Welcome to Cheng's home page! ![Analytics](https://ga-beacon.appspot.com/UA-73784599-1/welcome-page)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Welcome to Cheng's home page! ![Analytics](https://ga-beacon.appspot.com/UA-73784599-1/welcome-page)[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 <div class="social-icons section">
   <div style="float: left">
     <a href="https://www.linkedin.com/in/cheng-chen-1223b583" target="_blank">
