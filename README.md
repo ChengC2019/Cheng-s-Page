@@ -5,8 +5,6 @@
 
 <div align="right">
   <img alt="Logo" src="model.png" width="100" />
-</div>
-<div align="right">
   <img alt="Logo" src="favicon.png" width="100" />
 </div>
 
