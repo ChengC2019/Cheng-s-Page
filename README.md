@@ -1,12 +1,14 @@
-    
+<!--
 <img src= "favicon.png" width="100" align="right">
 <img src= "model.png" width = "100" align="right">
+-->
 
-<!--
 <div align="right">
   <img alt="Logo" src="model.png" width="100" />
 </div>
--->
+<div align="right">
+  <img alt="Logo" src="favicon.png" width="100" />
+</div>
 
 <div class="social-icons section">
   <div style="float: right">
