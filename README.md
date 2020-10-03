@@ -11,12 +11,14 @@
       <img src="https://www.genengnews.com/wp-content/uploads/2019/03/BestApps_ResearchGate.jpg"  style="max-height: 100px;" alt="ResearchGate"  width = "25">
     </a>
   </div>
+  
+  <div align="right">
+    <img alt="Logo" src="model.png" width="100" />
+    <img alt="Logo" src="favicon.png" width="100" />
+  </div>
 </div>
 
-<div align="right">
-  <img alt="Logo" src="model.png" width="100" />
-  <img alt="Logo" src="favicon.png" width="100" />
-</div>
+
 
 ## Cheng's Bio
 <p>
