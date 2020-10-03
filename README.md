@@ -1,6 +1,10 @@
 <img src= "favicon.png" width="100" align="right">
 <img src= "model.png" width = "100" align="right">
 
+<div align="center">
+  <img alt="Logo" src="https://raw.githubusercontent.com/bchiang7/v4/main/src/images/logo.png" width="100" />
+</div>
+
 <div class="social-icons section">
   <div style="float: right">
     <a href="https://www.linkedin.com/in/cheng-chen-1223b583" target="_blank">
