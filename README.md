@@ -1,4 +1,11 @@
-
+<head>
+		<title>CSCI 4360/6360 Data Science II</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+</head>
+  
+  
 <img src= "favicon.png" width="100" align="right">
 <img src= "model.png" width = "100" align="right">
 
