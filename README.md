@@ -1,8 +1,6 @@
 <img src= "favicon.png" width="100" align="right">
 <img src= "model.png" width = "100" align="right">
 
-[![Tweet](https://img.shields.io/twitter/url/https/shields.io.svg?style=social)](https://twitter.com/intent/tweet?
-
 <div class="social-icons section">
   <div style="float: right">
     <a href="https://www.linkedin.com/in/cheng-chen-1223b583" target="_blank">
