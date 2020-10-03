@@ -5,7 +5,7 @@
 </div>
 
 <div class="social-icons section">
-  <div style="float: right">
+  <div style="float: left">
     <a href="https://www.linkedin.com/in/cheng-chen-1223b583" target="_blank">
       <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQGyOWvr4W0Pow/company-logo_200_200/0?e=2159024400&v=beta&t=itrwplyUUwPAVxqxN8THySQds9p401UaOtZIurSBVnA" align="left"   style="max-height: 100px;" alt="Linkedin"  width = "25">
     </a>
